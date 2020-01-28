@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'smpl';
-  src:  url('fonts/smpl.eot?wvwrw4');
-  src:  url('fonts/smpl.eot?wvwrw4#iefix') format('embedded-opentype'),
-    url('fonts/smpl.ttf?wvwrw4') format('truetype'),
-    url('fonts/smpl.woff?wvwrw4') format('woff'),
-    url('fonts/smpl.svg?wvwrw4#smpl') format('svg');
+  src:  url('fonts/smpl.eot?1hckz7');
+  src:  url('fonts/smpl.eot?1hckz7#iefix') format('embedded-opentype'),
+    url('fonts/smpl.ttf?1hckz7') format('truetype'),
+    url('fonts/smpl.woff?1hckz7') format('woff'),
+    url('fonts/smpl.svg?1hckz7#smpl') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,7 +25,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.smpl-chat:before {
+.smpl-clipboard:before {
   content: "\e900";
 }
 .smpl-add:before {
@@ -55,25 +55,25 @@
 .smpl-camera:before {
   content: "\e909";
 }
-.smpl-check:before {
+.smpl-chat:before {
   content: "\e90a";
 }
-.smpl-chevron_down:before {
+.smpl-check:before {
   content: "\e90b";
 }
-.smpl-chevron_left:before {
+.smpl-chevron_down:before {
   content: "\e90c";
 }
-.smpl-chevron_right:before {
+.smpl-chevron_left:before {
   content: "\e90d";
 }
-.smpl-chevron_up:before {
+.smpl-chevron_right:before {
   content: "\e90e";
 }
-.smpl-clip:before {
+.smpl-chevron_up:before {
   content: "\e90f";
 }
-.smpl-clipboard:before {
+.smpl-clip:before {
   content: "\e910";
 }
 .smpl-computer:before {
