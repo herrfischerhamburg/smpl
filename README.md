@@ -3,7 +3,7 @@ Simple Icon Font.
 
 ## Todo
 Star (half)
-Star (empty
+Star (empty)
 User
 User Woman
 User Man
