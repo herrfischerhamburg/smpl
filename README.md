@@ -1,2 +1,2 @@
 # smpl
-Simple Icon Font
+Simple Icon Font.
