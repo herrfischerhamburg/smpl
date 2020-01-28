@@ -1,0 +1,165 @@
+@font-face {
+  font-family: 'smpl';
+  src:  url('fonts/smpl.eot?wvwrw4');
+  src:  url('fonts/smpl.eot?wvwrw4#iefix') format('embedded-opentype'),
+    url('fonts/smpl.ttf?wvwrw4') format('truetype'),
+    url('fonts/smpl.woff?wvwrw4') format('woff'),
+    url('fonts/smpl.svg?wvwrw4#smpl') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="smpl-"], [class*=" smpl-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'smpl' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.smpl-chat:before {
+  content: "\e900";
+}
+.smpl-add:before {
+  content: "\e901";
+}
+.smpl-arrow_down:before {
+  content: "\e902";
+}
+.smpl-arrow_left:before {
+  content: "\e903";
+}
+.smpl-arrow_right:before {
+  content: "\e904";
+}
+.smpl-arrow_up:before {
+  content: "\e905";
+}
+.smpl-basket:before {
+  content: "\e906";
+}
+.smpl-browser:before {
+  content: "\e907";
+}
+.smpl-calendar:before {
+  content: "\e908";
+}
+.smpl-camera:before {
+  content: "\e909";
+}
+.smpl-check:before {
+  content: "\e90a";
+}
+.smpl-chevron_down:before {
+  content: "\e90b";
+}
+.smpl-chevron_left:before {
+  content: "\e90c";
+}
+.smpl-chevron_right:before {
+  content: "\e90d";
+}
+.smpl-chevron_up:before {
+  content: "\e90e";
+}
+.smpl-clip:before {
+  content: "\e90f";
+}
+.smpl-clipboard:before {
+  content: "\e910";
+}
+.smpl-computer:before {
+  content: "\e911";
+}
+.smpl-data:before {
+  content: "\e912";
+}
+.smpl-delete:before {
+  content: "\e913";
+}
+.smpl-download:before {
+  content: "\e914";
+}
+.smpl-edit:before {
+  content: "\e915";
+}
+.smpl-ellipsis:before {
+  content: "\e916";
+}
+.smpl-file:before {
+  content: "\e917";
+}
+.smpl-filter:before {
+  content: "\e918";
+}
+.smpl-folder:before {
+  content: "\e919";
+}
+.smpl-gallery:before {
+  content: "\e91a";
+}
+.smpl-home:before {
+  content: "\e91b";
+}
+.smpl-image:before {
+  content: "\e91c";
+}
+.smpl-info:before {
+  content: "\e91d";
+}
+.smpl-love:before {
+  content: "\e91e";
+}
+.smpl-magnifier:before {
+  content: "\e91f";
+}
+.smpl-mail:before {
+  content: "\e920";
+}
+.smpl-menu_2:before {
+  content: "\e921";
+}
+.smpl-menu:before {
+  content: "\e922";
+}
+.smpl-microphone:before {
+  content: "\e923";
+}
+.smpl-news:before {
+  content: "\e924";
+}
+.smpl-options:before {
+  content: "\e925";
+}
+.smpl-pin:before {
+  content: "\e926";
+}
+.smpl-smartphone:before {
+  content: "\e927";
+}
+.smpl-sound_off:before {
+  content: "\e928";
+}
+.smpl-sound_on:before {
+  content: "\e929";
+}
+.smpl-star:before {
+  content: "\e92a";
+}
+.smpl-substract:before {
+  content: "\e92b";
+}
+.smpl-suitcase:before {
+  content: "\e92c";
+}
+.smpl-time:before {
+  content: "\e92d";
+}
