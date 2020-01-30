@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'smpl';
-  src:  url('fonts/smpl.eot?66hvpw');
-  src:  url('fonts/smpl.eot?66hvpw#iefix') format('embedded-opentype'),
-    url('fonts/smpl.ttf?66hvpw') format('truetype'),
-    url('fonts/smpl.woff?66hvpw') format('woff'),
-    url('fonts/smpl.svg?66hvpw#smpl') format('svg');
+  src:  url('fonts/smpl.eot?lt54dq');
+  src:  url('fonts/smpl.eot?lt54dq#iefix') format('embedded-opentype'),
+    url('fonts/smpl.ttf?lt54dq') format('truetype'),
+    url('fonts/smpl.woff?lt54dq') format('woff'),
+    url('fonts/smpl.svg?lt54dq#smpl') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.smpl-notebook:before {
+  content: "\e936";
+}
 .smpl-id_card:before {
   content: "\e933";
 }
